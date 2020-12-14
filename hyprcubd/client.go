@@ -1,4 +1,4 @@
-package client
+package hyprcubd
 
 type Client struct {
 	token string
